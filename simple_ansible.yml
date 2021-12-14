@@ -1,0 +1,4 @@
+- hosts: all
+  tasks:
+  - name: Print Hello World with parameters
+    debug: msg="Hello World with -{{param1}}- and -{{param2}}-"
