@@ -1,1 +1,1 @@
-echo "hi lucky how are you today? well!"
+echo "hi lucky :)"
